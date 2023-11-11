@@ -1,0 +1,17 @@
+README!!
+Julien Desmangles ID # 40084151
+Andrew Wilkes ID # 40006839
+
+The 4x4 and 7x7 .txt files were acquired from David Barr at https://github.com/david3x3x3
+Source for memory and runtime measurements from https://www.vogella.com/tutorials/JavaPerformance/article.html
+
+To get a better visual representation of the backtracking in action,
+go to line 344 in the board files, and un-comment the print statement.
+This will show the board updating in real time. BUT be aware that this
+will increase the runtime of the program significantly (but it looks WAY cooler :) ).
+
+We acknowledge that this is our own original work.
+
+Thank you for a great semester.
+
+Enjoy!
